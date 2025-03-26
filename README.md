@@ -1,2 +1,2 @@
 # presentaciones-equipo
--Daniel: Me gusta programar en python
+-Daniel: Me gusta programar en py
