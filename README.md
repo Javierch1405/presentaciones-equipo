@@ -1,2 +1,3 @@
 # presentaciones-equipo
-Manuel Covarrubias
+- Manuel Covarrubias
+-Daniel: Me gusta programar en py
